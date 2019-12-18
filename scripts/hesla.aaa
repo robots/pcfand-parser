@@ -1,0 +1,7 @@
+obchod/HESLA.000
+out/hesla.xml
+User
+Meno:A,20,name;
+Kod:F,1.0,code;
+Heslo:Z,10,password;
+Zlavau:F,2.0,discount;

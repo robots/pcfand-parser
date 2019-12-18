@@ -1,0 +1,5 @@
+obchod/KODY.000
+out/kody.xml
+Kod
+Kod:N,3,code;
+Nazov:A,15,name;
